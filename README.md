@@ -14,7 +14,7 @@ Welcome to 3DMiniComputer! I'm thrilled to present this project, which aims to o
 
 ## Getting Started
 
-To dive into the world of 3DMiniComputer, simply visit the [website](https://your-website-url.com/) and start exploring the collection of 3D models. No installation required!
+To dive into the world of 3DMiniComputer, simply visit the [website](https://otabek0111.github.io/MiniComputer/) and start exploring the collection of 3D models. No installation required!
 
 ## Contributing
 
